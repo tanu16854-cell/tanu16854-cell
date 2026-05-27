@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tanu Rana 👋
 
-<!--
-**tanu16854-cell/tanu16854-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Student and aspiring Full Stack Developer.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* MERN Stack
+* Java
+* Spring Boot
+* JDBC
+* MySQL
+* REST APIs
+* Git & GitHub
+
+## Projects
+
+* Smart Attendance ERP System
+* Online Examination System
+* Grocery Store Web Application
+* Student Marks Analysis
+
+## Currently Learning
+
+* Advanced MERN Stack
+* DSA
+* Spring Boot
+
+## Connect With Me
+
+LinkedIn: Add your LinkedIn link
+GitHub: Add your GitHub link
